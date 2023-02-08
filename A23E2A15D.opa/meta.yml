@@ -1,0 +1,24 @@
+id: A23E2A15D
+title: Saddharmapuṇḍarīka
+type: translation
+pechas:
+- I4788B652
+- I2D8784DC
+- IB9D18B6A
+- I1691BB57
+- IA99BAA4B
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:23:39.091607
+  last_modified_at: 2023-02-08 15:23:39.091626
+alignment_to_base:
+  I4788B652/36DD: F64A
+  I2D8784DC/3EDE: F64A
+  IB9D18B6A/DDF2: F64A
+  I1691BB57/39C4: F64A
+  IA99BAA4B/D1A8: F64A
